@@ -9,7 +9,7 @@ import org.apache.ibatis.annotations.Select;
 public interface EmployeeMapper {
 
     /**
-     * 根据用户名查询员工1
+     * 根据用户名查询员工
      * @param username
      * @return
      */
